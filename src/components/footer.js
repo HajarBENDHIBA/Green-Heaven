@@ -93,7 +93,7 @@ export function footer() {
             </li>
           </ul>
         </div>
-        <a href="#" id="logoLink"> <img src="/img/logo.png" alt="Green Heaven Logo" class="h-[50px] object-contain"> </a>
+        <a href="#" id="logoLink"> <img src="/public/img/logo.png" alt="Green Heaven Logo" class="h-[50px] object-contain"> </a>
       </div>
     </div>
     

@@ -4,7 +4,7 @@ export function header() {
   <nav class="flex items-center justify-between">
     <div class="logo-container text-2xl font-bold flex-shrink-0 font-josefin">
       <a href="#" id="logoLink"> 
-        <img src="/img/logo.png" alt="Green Heaven Logo" class="logo-img"> 
+        <img src="/public/img/logo.png" alt="Green Heaven Logo" class="logo-img"> 
       </a>
     </div>
 
